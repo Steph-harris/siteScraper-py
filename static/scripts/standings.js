@@ -47,8 +47,8 @@ $(document).ready(function(){
       }
 
       if(i%5 == 0){
-        newRws += `<tr><td class="div_header" title="${val.conference} ${division} Division Standings"><b>${val.conference} ${division}</b></td>
-        
+        newRws += `<tr><td class="div_header" colspan="6" title="${val.conference} ${division} Division Standings"><b>${val.conference} ${division}</b></td>
+
         </tr>`;
       }
       newRws += `<tr title="${val.first_name} ${val.last_name } Standing"><

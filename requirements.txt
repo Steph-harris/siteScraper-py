@@ -7,7 +7,7 @@ parso==0.3.1
 pbr==4.2.0
 prompt-toolkit==1.0.15
 ptpython==0.41
-Pygments==2.2.0
+Pygments==2.7.4
 requests==2.19.1
 six==1.11.0
 stevedore==1.29.0
